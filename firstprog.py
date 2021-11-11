@@ -14,9 +14,9 @@ h=a//2
 print('Flour division', h)
 
 if a>b:
-    print ('a is smaller than b')
-else :
     print ('a is greater than b')
+else :
+    print ('a is smaller than b')
 
 
 
